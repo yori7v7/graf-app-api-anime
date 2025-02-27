@@ -1,1 +1,0 @@
-intro-app-color-git
